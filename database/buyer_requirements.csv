@@ -1,0 +1,13 @@
+requirement_id,buyer_id,req_certification,min_score_threshold
+1,1,OEKO-TEX,80
+2,1,BSCI,80
+3,1,SMETA,80
+4,2,OEKO-TEX,78
+5,2,SMETA,78
+6,2,BSCI,78
+7,3,GOTS,65
+8,3,SMETA,65
+9,4,SMETA,60
+10,4,OEKO-TEX,60
+11,5,BSCI,55
+12,5,GOTS,55
